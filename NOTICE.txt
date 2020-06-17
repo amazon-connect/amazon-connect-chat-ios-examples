@@ -1,0 +1,9 @@
+Copyright 2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+**********************
+THIRD PARTY COMPONENTS
+**********************
+This software includes third party software subject to the following copyrights:
+
+AWS Mobile SDK under the Apache License Version 2.0
+Starscream under the Apache License Version 2.0

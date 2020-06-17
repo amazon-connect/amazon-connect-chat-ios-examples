@@ -1,0 +1,6 @@
+framework module Pods_AmazonConnectChatiOSTests {
+  umbrella header "Pods-AmazonConnectChatiOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

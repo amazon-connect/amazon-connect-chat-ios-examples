@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_AmazonConnectChatiOS_AmazonConnectChatiOSUITests : NSObject
+@end
+@implementation PodsDummy_Pods_AmazonConnectChatiOS_AmazonConnectChatiOSUITests
+@end
