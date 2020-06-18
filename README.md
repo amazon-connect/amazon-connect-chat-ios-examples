@@ -2,7 +2,7 @@
 
 This repo contains an example on how to establish a chat iOS application using the Amazon Connect mobile SDKs. This example is not meant to be a full fledged solution, but instead demonstrates how to string together the APIs required to establish a chat.
 
-For detailed instructions on how to build this example, follow [this blog](https://aws.amazon.com/blogs/contact-center/).
+For detailed instructions on how to build this example, follow [this blog](https://aws.amazon.com/blogs/contact-center/create-a-mobile-chat-solution-with-the-amazon-connect-mobile-sdk/).
 
 ### Resources
 The key resources used in this example are the following:
